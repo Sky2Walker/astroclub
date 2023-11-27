@@ -1,0 +1,171 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+li {
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.container {
+    max-width: 1653px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.background1 {
+    background-image: url(../img/Background1.png);
+    ;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    padding-top: 48px;
+    margin-right: 765px;
+}
+
+.logo__img {
+    width: 228px;
+    height: 73px;
+}
+
+
+.menu {
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 48px;
+
+
+}
+
+.menu__list {
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.menu__item {
+    margin-right: 86px;
+}
+
+
+.menu__item:last-child {
+    border-radius: 50px;
+    border: 2px solid #FFF;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    padding-top: 14px;
+
+}
+
+.menu__link {}
+
+
+.heading {
+    color: rgba(255, 255, 255, 0.80);
+
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    padding-top: 234px;
+
+}
+
+.first__title {
+    font-size: 120px;
+    font-weight: 800;
+    padding-top: 52px;
+
+}
+
+.space__list {
+    margin-right: 50px;
+    margin-left: 124px;
+    text-align: left;
+    padding-bottom: 18px;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.lsit__item {}
+
+
+.lsit__item:nth-child(3) {
+    color: #FFF;
+}
+
+.list__text {}
+
+.second__title {
+    padding-top: 52px;
+    font-size: 120px;
+    font-weight: 800;
+}
+
+.social {
+    padding-top: 62px;
+
+}
+
+.social__list {
+    
+}
+
+.social__item {
+    margin-bottom: 21px;
+}
+
+.menu__link {}
+
+.social__icon {}
